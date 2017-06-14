@@ -1,6 +1,6 @@
-# Capturing some Common `collect` patterns
+## Capturing some Common `collect` patterns
 
-A very common pattern is collecting an iterator:
+A common pattern in Rust is collecting an iterator:
 
 ```rust
 let values = &["one","two","three"];

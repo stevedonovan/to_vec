@@ -10,3 +10,5 @@ documentation = "https://docs.rs/to_vec"
 
 keywords = ["iterators","helpers","traits"]
 
+license="MIT"
+
