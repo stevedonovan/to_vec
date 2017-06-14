@@ -1,0 +1,12 @@
+[package]
+name = "to_vec"
+version = "0.1.0"
+authors = ["steve donovan <steve.j.donovan@gmail.com>"]
+
+description = "convenient to_vec, to_set and to_map methods on iterators"
+repository = "https://github.com/stevedonovan/to_vec.git"
+
+documentation = "https://docs.rs/to_vec"
+
+keywords = ["iterators","helpers","traits"]
+
